@@ -1,0 +1,10 @@
+{
+  "name": "cga-chat-service",
+  "version": "1.0.0",
+  "scripts": { "dev": "bun --hot index.ts" },
+  "dependencies": {
+    "socket.io": "^4.8.0",
+    "cors": "^2.8.5",
+    "jose": "^6.2.3"
+  }
+}
